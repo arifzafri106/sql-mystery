@@ -1,1 +1,1 @@
-# sql-mystery
+# SQL Murder Mystery
